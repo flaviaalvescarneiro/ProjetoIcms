@@ -1,0 +1,8 @@
+org\example\Main.class
+PatterFactory\IcmsFactory.class
+PatterFactory\CalculoPorRegiao.class
+PatterFactory\IcmsES.class
+PatterFactory\IcmsRJ.class
+PatterFactory\IcmsMG.class
+PatterFactory\IcmsSP.class
+modelo\Orçamento.class
